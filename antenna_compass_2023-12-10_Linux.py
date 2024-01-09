@@ -12,7 +12,9 @@
 # 2023-12-10: Portad till Linux. Krävdes att justera installera modulen serial koden och lägga till tty och dialout i groups.
 # Det finns bra instruktioner på Youtube sök 'Python serial Linux'. Portnamn för Auruino i Linux är ttyACM0. Se kod nedan. 
 
-# 2023-12-25 Laborerat med git / github  
+# 2023-12-25 Laborerat med git / github 
+
+# 2024-02-02 Anslutit till Git-GiHub (GitHub repository: Antenna_controller_linux) 
 
 import sys
 import numpy as np
